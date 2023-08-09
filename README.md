@@ -1,4 +1,4 @@
-# ElipseJar
+# EclipseJar
 
 author: Israel Robles\
 about: please consider these are the steps that work for me on Mac OS, they might not work for you.
