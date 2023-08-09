@@ -20,7 +20,7 @@ about: please consider these are the steps that work for me on Mac OS, they migh
 ![screenshot](exportprompt.png)
    
 5. on the JAR Export prompt select your project and select the files within.
-   Make sure Export generated class files and resources and Compress the contects of the JAR file are checked
+   Make sure "Export generated class files and resources" and "Compress the contects of the JAR file" are checked
 6. click browse and select in your computer the folder where you want your JAR file imported
 7. click Finish 
 
