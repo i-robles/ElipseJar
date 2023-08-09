@@ -34,12 +34,12 @@ about: please consider these are the steps that work for me on Mac OS, they migh
    Note: Classpath is basically where your project will look for any external libraries you add.
 4. Click on Add External JARs, browse for you JAR file and click Open
 5. Finally click on Apply and Close\
-   Note: right on, your library has been imported, now you can use the method within as any other built-in library
+   Note: right on, your library has been imported, now you can use the methods within as any other built-in library
 
 ![screenshot](propertiesprompt.png)
 
 ### Example of using your imported library
 
-On top of your .java import your packagename.additionalFoldersIfAny.className
+On top of your whatever.java import your packagename.additionalFoldersIfAny.className
 
 ![screenshot](test.png)
