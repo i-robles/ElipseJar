@@ -1,6 +1,7 @@
 # ElipseJar
 
 author: Israel Robles
+about: please consider these are the steps that work for me, they might not work for you.
 
 ### How to convert Java project to Maven project
 
